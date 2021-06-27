@@ -18,6 +18,12 @@ RUN apk update \
     && apk add --no-cache openssl \
     && apk add --no-cache bash
 
+RUN apk update \
+    && apk upgrade \
+    && apk add --no-cache openssl \
+    && apk add --no-cache bash \
+    && apk add --no-cache certbot
+
 RUN apk add --no-cache curl
 
 RUN set -x ; \
