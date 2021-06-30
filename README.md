@@ -314,5 +314,5 @@ You can sponsor us using any of the methods below:
 [silver-sponsors-href]: https://opencollective.com/laradock#contributors
 [bronze-sponsors-src]: https://opencollective.com/laradock/tiers/bronze-sponsors.svg?avatarHeight=48&width=890&button=false&isActive=true
 [bronze-sponsors-href]: https://opencollective.com/laradock#contributors
-
+OK BABY
 
